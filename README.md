@@ -1,1 +1,1 @@
-# Amazon-Web-Scraper
+This Python script utilizes web scraping techniques to extract product information from Amazon, focusing on the title and price of a specific item. Additionally, it tracks the price over time and stores the data in a CSV file. The script is equipped with functionalities to run periodically, allowing for regular updates on the product's price changes.
